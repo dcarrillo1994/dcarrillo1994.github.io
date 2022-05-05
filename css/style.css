@@ -982,6 +982,12 @@ header.scrolled .logo{
     transform: translate(-50%, -50%);
 }
 
+/* --------------- Portfolio Section Styling -------------- */
+
+.blogging .container {
+    padding: var(--section-padding) 0 calc(var(--section-padding) + 120px);
+}
+
 /* --------------- Contact Section Styling -------------- */
 
 .contact .container {
