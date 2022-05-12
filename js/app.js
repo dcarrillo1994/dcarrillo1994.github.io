@@ -11,8 +11,8 @@ const prt_section = document.querySelector(".portfolio")
 const zoom_icons = document.querySelectorAll(".zoom-icon");
 const modal_overlay = document.querySelector(".modal-overlay");
 const images = document.querySelectorAll(".images img");
-const prev_btn = document.querySelectorAll(".prev-btn");
-const next_btn = document.querySelectorAll(".next-btn");
+const prev_btn = document.querySelector(".prev-btn");
+const next_btn = document.querySelector(".next-btn");
 
 const links = document.querySelectorAll(".nav-link");
 
