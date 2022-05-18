@@ -1048,7 +1048,7 @@ header.scrolled .logo{
     position: absolute;
     height: 450px;
     bottom: 0;
-    right: 0;
+    right: -103px;
 }
 
 .section-background .circle {
